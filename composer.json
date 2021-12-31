@@ -17,7 +17,7 @@
 
 	"autoload": {
 		"psr-4": {
-			"PerryRylance\\Prims": "src"
+			"PerryRylance\\Prims\\": "src"
 		}
 	},
 
